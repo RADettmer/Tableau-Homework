@@ -1,4 +1,11 @@
 # Tableau-Homework
+
+This project uses Tableau Public.  This is the free tier of Tableau and only lets you save to their public server.
+
+Here is the URL to the completed workbook.
+
+..insert link here..
+
 Repository for Tableau data files and clean up
 
 CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.
