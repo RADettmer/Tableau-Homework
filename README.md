@@ -5,13 +5,11 @@ The analysis contained herin was performed on data from January 2018 thru May 20
 
 The Tableau Public workbook includes the following.
 
-	 9 "Phenomenon" Visualizations
+	 11 "Phenomenon" Visualizations
 	 
-	 2 Dashboards
-	 
-	 1 City Offical Map
-	 
-	 1 Story
+	 4 Dashboards (two of these are offical maps showing starting and ending stations in New Jersey)
+	  
+	 1 Story (describes detail about bike trips)
 	 
 Each page includes text/markdown with analysis on observations uncovered from the data.
 
@@ -20,7 +18,7 @@ The ETL process was initiated within a Jupyter Notebook, CityBikeCSVcheck.ipynb.
 This notebook used Pandas to clean the data and Glob to quickly load the CSV files and Pickeled the data to reduce the file size. 
 The starting and ending bike station data was consolided since it was duplicated on each transaction. A separate table/file was created for the starting stations and ending stations. This left the transaction data with only a reference number to the particular station.
 
-Within Tableau Public, the files were joined on the starting and ending station columns as a xxx join. Analysis was performed on this database.
+Within Tableau Public, the files were joined on the starting and ending station columns as a inner join. Analysis was performed on this loaded database.
 
 ### Prerequisites
 
@@ -52,6 +50,7 @@ startstation - Starting station data
 ## Versioning
 
 This homework/project uses Tableau Public version 2020.3.
+
 The Jupyter Notebook used Python 3.
 
 ## Acknowledgements
