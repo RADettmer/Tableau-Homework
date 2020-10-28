@@ -1,6 +1,6 @@
 # Tableau-Homework
 
-This homework/project works with data from the Citi Bike Data webpage as of 5/xxx/2020 from the New York Citi Bike Program.
+This homework/project works with data from the Citi Bike Data webpage from the New York Citi Bike Program.  The analysis was performed on data from January 2018 thru May 2020.
 
 Here is the link to the site for the data.
 
@@ -28,14 +28,14 @@ CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data f
 Files:
 bikedata2019A - January thru June 2019 data
 bikedata2019B - July thru December 2019 data
-bikedata2010 - January thru May 2019 data
+bikedata2020 - January thru May 2020 data
 endstation - Ending station data
 startstation - Starting station data
 
 
 ## Versioning
 
-This homework/project uses Tableau Public version x.x
+This homework/project uses Tableau Public version 2020.3.
 
 
 ## Acknowledgements
