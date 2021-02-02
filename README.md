@@ -32,27 +32,26 @@ https://public.tableau.com/profile/randall.a.dettmer#!/vizhome/CitiBike_twbx/Sta
 ### Files
 
 [Raw data from Citi Bike (/Resources)](/Resources)
+This is the raw data that was downloaded from the CitiBike site.
 
-Screen Shots (folder) - screen shots of various visualizations from Tableau; many include observations and/or notes
-[Screen Shots (/Screen_Shots)](/Screen_Shots)
-
-CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.  The files from CitiBike were very large and there were duplicate items in each data set.  Using the Jupyter Notebook, I was able to clean and reduce the data duplication.  For example, each transaction had compete starting and ending station information.  Reducing that to a code number and then using this code number as a reference, I was able to reduce the amount of data space required but also keeping the integrity of the information contained therein.
+CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.  The files from CitiBike were very large and there were duplicate items in each data set.  Using the Jupyter Notebook, I was able to clean and reduce the data duplication.  For example, each transaction had compete starting and ending station information.  Reducing that to a code number and then using this code number as a reference, I was able to reduce the amount of data space required but also keeping the integrity of the information contained therein.  In addition, this also condenced the data from 17 original files to 5 files.
 [Jupyter Notebook (CitiBikeCSVcheck.ipynb)](CitiBikeCSVcheck.ipynb)
 
-bikedata2019A - January thru June 2019 data
 [bikedata2019A - January thru June 2019 data (bikedata2019A.csv)](bikedata2019A.csv)
 
-bikedata2019B - July thru December 2019 data
 [bikedata2019B - July thru December 2019 data (bikedata2019B.csv)](bikedata2019B.csv)
 
-bikedata2020 - January thru May 2020 data
 [bikedata2020 - January thru May 2020 data (bikedata2020.csv)](bikedata22020.csv)
 
-endstation - Ending station data
 [endstation - Ending station data (endstation.csv)](endstation.csv)
 
-startstation - Starting station data
 [startstation - Starting station data (startstation.csv)](startstation.csv)
+
+## Analysis
+
+Screen_Shots folder contains images of various visualizations in Tableau; many include observations and/or notes at the bottom of the page.  You don't need Tableau to view these images.
+
+[Screen Shots (/Screen_Shots)](/Screen_Shots)
 
 ## Versioning
 
