@@ -45,17 +45,17 @@ CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data f
 
 [startstation - Starting station data (startstation.csv)](startstation.csv)
 
-## Analysis
-
-Screen_Shots folder contains images of various visualizations in Tableau; many include observations and/or notes at the bottom of the page.  You don't need Tableau to view these images.
+Screen_Shots folder contains images of various visualizations in Tableau; many include observations and/or notes at the bottom of the some of the pages. You don't need Tableau to view these images but, viewing these in Tableau you would receive a better understanding of the data.
 
 [Screen Shots (/Screen_Shots)](/Screen_Shots)
 
-Looking at the images, you can notice that during the data period, January 2018 thur May 2020, that there was a significat reduction in ridership during April and May of 2020. The reduction in ridership was the result of quarnteening and stay at home orders.
+## Analysis
 
-Grove St PATH station leads as the most active CitiBike station in New Jersey. Despite the pandemic, the station was still leading during April and May 2020. This station also leads in number of bikes originating or terminating. Peak start times range between 5 AM and 10 AM during the week but on weekends, the peak start times are between 7 AM and about 1 PM with another peak at 3 PM before tappering off for the day.
+Looking at the images presented with this data, you can notice that during the data period, January 2018 thur May 2020, that there was a significat reduction in ridership during April and May of 2020. The reduction in ridership was the result of quarnteening and stay at home orders.
 
-The largest deomgraphic of riders are male by almost 2 to 1 over female.
+Grove St PATH station leads as the most active CitiBike station in New Jersey. Despite the pandemic, the station was still leading during April and May 2020. This station also leads in number of bikes originating or terminating. Peak start times range between 5 AM and 10 AM during the week but on weekends, the peak start times are between 7 AM and about 1 PM with another peak at 3 PM before tappering off for the day. This would make it seem better to do maintenace on bikes during the middle of the day during the week to avoid the biggest impact on ridership.
+
+The largest deomgraphic of riders are male by almost 2 to 1 over female. CitiBike should focus marketing efforts upon the female riders to attact more.
 
 ## Versioning
 
