@@ -31,7 +31,7 @@ https://public.tableau.com/profile/randall.a.dettmer#!/vizhome/CitiBike_twbx/Sta
 
 ### Files
 
-Resources (folder) - raw data from Citi Bike
+[Raw data from Citi Bike (/Resources)](/Resources)
 
 Screen Shots (folder) - screen shots of various visualizations from Tableau; many include observations and/or notes
 
