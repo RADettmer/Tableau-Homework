@@ -37,6 +37,7 @@ Screen Shots (folder) - screen shots of various visualizations from Tableau; man
 [Screen Shots (/Screen_Shots)](/Screen_Shots)
 
 CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.
+[Jupyter Notebook (CitiBikeCSVcheck.ipynb)](CitiBikeCSVcheck.ipynb)
 
 bikedata2019A - January thru June 2019 data
 
