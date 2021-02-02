@@ -36,18 +36,23 @@ https://public.tableau.com/profile/randall.a.dettmer#!/vizhome/CitiBike_twbx/Sta
 Screen Shots (folder) - screen shots of various visualizations from Tableau; many include observations and/or notes
 [Screen Shots (/Screen_Shots)](/Screen_Shots)
 
-CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.
+CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.  The files from CitiBike were very large and there were duplicate items in each data set.  Using the Jupyter Notebook, I was able to clean and reduce the data duplication.  For example, each transaction had compete starting and ending station information.  Reducing that to a code number and then using this code number as a reference, I was able to reduce the amount of data space required but also keeping the integrity of the information contained therein.
 [Jupyter Notebook (CitiBikeCSVcheck.ipynb)](CitiBikeCSVcheck.ipynb)
 
 bikedata2019A - January thru June 2019 data
+[bikedata2019A - January thru June 2019 data (bikedata2019A.csv)](bikedata2019A.csv)
 
 bikedata2019B - July thru December 2019 data
+[bikedata2019B - July thru December 2019 data (bikedata2019B.csv)](bikedata2019B.csv)
 
 bikedata2020 - January thru May 2020 data
+[bikedata2020 - January thru May 2020 data (bikedata2020.csv)](bikedata22020.csv)
 
 endstation - Ending station data
+[endstation - Ending station data (endstation.csv)](endstation.csv)
 
 startstation - Starting station data
+[startstation - Starting station data (startstation.csv)](startstation.csv)
 
 ## Versioning
 
