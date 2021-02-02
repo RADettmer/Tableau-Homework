@@ -34,6 +34,7 @@ https://public.tableau.com/profile/randall.a.dettmer#!/vizhome/CitiBike_twbx/Sta
 [Raw data from Citi Bike (/Resources)](/Resources)
 
 Screen Shots (folder) - screen shots of various visualizations from Tableau; many include observations and/or notes
+[Screen Shots (/Screen Shots)](/Screen Shots)
 
 CityBikeCSVcheck.ipynb - Jupyter Notebook file used to clean and organize data for Tableau Homework.
 
