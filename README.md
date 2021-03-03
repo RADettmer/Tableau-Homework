@@ -51,7 +51,7 @@ Screen_Shots folder contains images of various visualizations in Tableau; many i
 
 ## Analysis
 
-Looking at the images presented with this data, you can notice that during the data period, January 2018 thur May 2020, that there was a significat reduction in ridership during April and May of 2020. The reduction in ridership was the result of quarnteening and stay at home orders.
+Looking at the images presented with this data, you can notice that during the period of January 2018 thur May 2020, that there was a significat reduction in ridership during April and May of 2020. The reduction in ridership was the result of quarnteening and stay at home orders.
 
 Grove St PATH station leads as the most active CitiBike station in New Jersey. Despite the pandemic, the station was still leading during April and May 2020. This station also leads in number of bikes originating or terminating. Peak start times range between 5 AM and 10 AM during the week but on weekends, the peak start times are between 7 AM and about 1 PM with another peak at 3 PM before tappering off for the day. This would make it seem better to do maintenace on bikes during the middle of the day during the week to avoid the biggest impact on ridership.
 
